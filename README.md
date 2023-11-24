@@ -8,6 +8,7 @@ Download Compare_peaks.zip and run the following:
 unzip Compare_peaks.zip
 
 make
+
 cp  Compare_peaks your_path_of_binary_files
 
 USAGE: Compare_peaks file_bed1 file_bed2
