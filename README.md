@@ -8,9 +8,9 @@ Download Compare_peaks.zip and run the following:
 unzip Compare_peaks.zip
 
 make
-cp  Compare_peaks <your path of binary files>
+cp  Compare_peaks your_path_of_binary_files
 
-USAGE: Compare_peaks <bed1> <bed2>
+USAGE: Compare_peaks file_bed1 file_bed2
 
 Options:
 
@@ -22,7 +22,7 @@ Options:
 
    -c Consider only center of first set of peaks with width 1
 
-   -o <name of output file>
+   -o name_of_output_file
 
    -h Print this help (also when no input file is specified)
    
